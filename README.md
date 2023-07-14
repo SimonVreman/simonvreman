@@ -1,7 +1,7 @@
 # Hello 👋, I'm Simon
 ### A software engineer and computer science student from The Netherlands
 
-- 👨‍💻 My projects are available at [simonvreman.nl/projects](simonvreman.nl/projects)
+- 👨‍💻 My projects are available at [simonvreman.nl/projects](https://simonvreman.nl/projects)
 
 - 💬 Ask me about **most things web development related**
 
