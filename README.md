@@ -1,5 +1,5 @@
 # Hello 👋, I'm Simon
-### A software engineer and computer science student from The Netherlands
+### A software engineer from The Netherlands
 
 - 👨‍💻 My projects are available at [simonvreman.nl/projects](https://simonvreman.nl/projects)
 
